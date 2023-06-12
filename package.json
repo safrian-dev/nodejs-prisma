@@ -23,5 +23,6 @@
     },
     "dependencies": {
         "@prisma/client": "^4.15.0"
-    }
+    },
+    "jest-w": "jest --watch"
 }
